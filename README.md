@@ -5,6 +5,8 @@ Saya juga sangat familiar dan senang dengan Linux, yang biasa saya pakai itu Ubu
 Kalo lagi senggang suka hunting nyari bug di aplikasi orang si secara random, untuk target sendiri meliputi Web dan Mobile apps. 
 Kadang juga suka bikin bot yang aneh aneh xixiix.
 
+Saat ini bekerja sebagai Penetration Tester / System Security Engineer.
+
 Oke itu aja, Terima kasih 😄😄😄😄😄😄😄
 <!--
 **mfndi/mfndi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
