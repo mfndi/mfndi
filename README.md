@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hallo gesss 👋
+Salam kenal. saya Muhamad Efendi, panggil aja epen. langsung ke intinya aja ges, saya bisa jadi mas mas programmer dengan menggunakan dua bahasa yaitu PHP dan NODEJS😄😄.
+bisa jadi mas mas System Security Engineer. 
+Saya juga sangat familiar dan senang dengan Linux, yang biasa saya pakai itu Ubuntu,Debian,Centos (Ya yang biasa dipake kantoran aja ini mah xixixi).
+Kalo lagi senggang suka hunting nyari bug di aplikasi orang si secara random, untuk target sendiri meliputi Web dan Mobile apps. 
+Kadang juga suka bikin bot yang aneh aneh xixiix.
 
+Oke itu aja, Terima kasih 😄😄😄😄😄😄😄
 <!--
 **mfndi/mfndi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
