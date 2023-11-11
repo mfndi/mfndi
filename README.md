@@ -3,6 +3,10 @@ Nama saya **Muhamad Efendi** aka. **Epen** saya backend dev dan penetration test
 saat ini saya tinggal di sudimara pinang, kota tangerang.
 
 
+Link :
+fecore.my.id (Server Segera Di Update)
+fecoretech.com (Server Segera Di Update)
+
 - 🐘 Saya menggunakan **PHP** untuk membuat aplikasi web / API. Saya menggunakan PHP Native dan Laravel.
 - 🐹 Saya menggunakan NODEJS untuk membuat BOT, Scrapping, API dan hal hal automation lain nya.
 - 🔐 Keamanan aplikasi menggunakan **JWT** and **Obfuscating**.
@@ -17,7 +21,7 @@ saat ini saya tinggal di sudimara pinang, kota tangerang.
 - 🔐 Saya sangat suka dan senang belajar **IT Security** saat ini saya memiliki 2 Sertifikat, CEH (Certified Ethical Hacker) dan CAP (Certified AppSec Practitioner).
 - 🔐 Alat yang saya biasa gunakan untuk bug hunting dan pentest. **Nmap** ,**Burpsuite**,**SQLMAP**,**Nessus**,**Frida**,**Nuclei**, **Runtime Mobile Security (RMS)** dan lain lain.
 - 🎛 Saya menggunakan **Mikrotik** sebagai alat manage jaringan.
-- 
+
 
  > Saat ini saya bekerja di perusahaan swasta jakarta selatan **(PT Altaflix Techno Global)**.
  > Saya bekerja sebagai Penetration tester dan System Security Engineer.
