@@ -1,5 +1,5 @@
 ### Hallo gesss 👋
-Nama saya **Muhamad Efendi** aka. **Epen** saya backend dev dan penetration test.
+Nama saya **Muhamad Efendi** aka **Epen**. saya backend dev dan penetration test.
 saat ini saya tinggal di sudimara pinang, kota tangerang.
 
 
