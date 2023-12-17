@@ -3,10 +3,6 @@ Nama saya **Muhamad Efendi** aka **Epen**. saya backend dev dan penetration test
 saat ini saya tinggal di sudimara pinang, kota tangerang.
 
 
-Link :
-fecore.my.id (Server Segera Di Update)
-fecoretech.com (Server Segera Di Update)
-
 - 🐘 Saya menggunakan **PHP** untuk membuat aplikasi web / API. Saya menggunakan PHP Native dan Laravel.
 - 🐹 Saya menggunakan NODEJS untuk membuat BOT, Scrapping, API dan hal hal automation lain nya.
 - 🔐 Keamanan aplikasi menggunakan **JWT** and **Obfuscating**.
