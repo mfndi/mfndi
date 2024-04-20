@@ -7,7 +7,7 @@ saat ini saya tinggal di sudimara pinang, kota tangerang.
 - 🐹 Saya menggunakan NODEJS untuk membuat BOT, Scrapping, API dan hal hal automation lain nya.
 - 🔐 Keamanan aplikasi menggunakan **JWT** and **Obfuscating**.
 - 🥞 Saya menggunakan database **MYSQL/MARIADB**.
-- 🥞 Saya menggunakan **Redis** untuk NOSQL database.
+- 🥞 Saya menggunakan **MongoDB** untuk NOSQL database.
 - 🐧 Saya juga menghandle mail server **ZIMBRA** dan cloud storage **NEXTCLOUD** .
 - 🐧 Saya menggunakan **Ubuntu/Debian/Centos** sebagai os server, terkadang pakai **WHM/Cpanel**.
 - 🐧 Ditempat kerja, saya lebih sering menghandle **AlibabaCloud** dan **On-Premise Server**.
