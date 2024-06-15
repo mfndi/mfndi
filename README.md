@@ -19,9 +19,10 @@ saat ini saya tinggal di sudimara pinang, kota tangerang.
 - 🎛 Saya menggunakan **Mikrotik** sebagai alat manage jaringan.
 
 
- > Saat ini saya bekerja di perusahaan swasta jakarta selatan **(PT Altaflix Techno Global)**.
+ <!-- > Saat ini saya bekerja di perusahaan swasta jakarta selatan **(PT Altaflix Techno Global)**.
  > Saya bekerja sebagai Penetration tester dan System Security Engineer.
  > Karir saya dibidang IT Security semuanya di support oleh perusahaan tempat saya bekerja. Perusahaan tersebut berjalan dibidang **Cybersecurity Services Provider**.
+ -->
 
 <!--
 **mfndi/mfndi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
